@@ -1,0 +1,5 @@
+export const LOGIN_ATTEMP='LOGIN_ATTEMP';
+export const LOGIN_SUCCESS='LOGIN_SUCCESS';
+export const LOGIN_FAILED='LOGIN_FAILED';
+export const MESSAGE_RECIVED = 'MESSAGE_RECIVED';
+export const FETCHING = 'FETCHING';
